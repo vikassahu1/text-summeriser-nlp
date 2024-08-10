@@ -1,3 +1,3 @@
 1) Set up github
 2) Make templates folder which contains all the components in the project
-3) 
+3) run template.py to get all the files
